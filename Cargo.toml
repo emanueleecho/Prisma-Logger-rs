@@ -1,0 +1,10 @@
+[package]
+name = "Prisma Logger"
+version = "0.1.0"
+edition = "2021"
+description = "A simple logger crate for Prisma"
+license = "MIT"
+repository = ""
+[dependencies]
+chrono = "0.4"
+colored = "2.0"
